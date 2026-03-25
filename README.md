@@ -12,7 +12,7 @@
 
 ### 📫 Contact
 
-•⁠  ⁠Email: *@gmail.com*
+•⁠  ⁠Email: *fmesenbarboza347@gmail.com*
 
 ---
 
@@ -27,8 +27,8 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kenneth-ramírez-ugalde-a5a605258/">
-<img src="https://img.shields.io/badge/LinkedIn-Kenneth%20Ramirez-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/fernan-mesen-b06a66256/">
+<img src="https://img.shields.io/badge/LinkedIn-Fernan%20Mesen-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
 
